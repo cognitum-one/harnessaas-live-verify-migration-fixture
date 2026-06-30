@@ -1,0 +1,8 @@
+{
+  "name": "synthetic-migration-target",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
